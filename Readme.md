@@ -5,5 +5,4 @@ New Line
 
 
 
-
-VERANDERD IN mac
+d
