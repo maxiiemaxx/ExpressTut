@@ -6,4 +6,4 @@ New Line
 
 
 
-VERANDERD IN GITHUB>COM
+VERANDERD IN mac
